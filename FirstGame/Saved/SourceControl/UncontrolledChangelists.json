@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Maps/Valley.umap",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/M_Carbon.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/M_Metal.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/M_Plastic.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/SM_Crate.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/T_Grunge_A.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/T_Plastic_N.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/T_Metal_N.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/T_Metal_R.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/T_Ribbing_A.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/T_Ribbing_N.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/Props/T_Ribbing_A_Mat.uasset",
+				"C:/Users/dhtua/Work/first-unreal-project/FirstGame/Content/GameElements/BP_Crate.uasset"
+			]
+		}
+	]
+}
